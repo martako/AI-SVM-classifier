@@ -1,0 +1,9 @@
+scipy
+tfidf
+jupyter
+numpy
+matplotlib
+pandas
+sklearn
+pysal
+jupyterthemes
